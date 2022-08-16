@@ -318,6 +318,7 @@ footer .footnote p {
   font-weight: 400;
   color: #424245;
   text-decoration: none;
+  list-style-type: none;
 }
 
 .page-footer .footer-links li a:hover {
