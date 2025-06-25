@@ -53,7 +53,7 @@ To replicate Apple's responsive homepage layout using semantic HTML5 and modern 
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![desktop](images/screenshot-desktop.png) | ![mobile](images/screenshot-mobile.png) |
+| ![desktop](img/screenshot-desktop.png) | ![mobile](img/screenshot-mobile.png) |
 
 ---
 
