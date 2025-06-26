@@ -28,7 +28,6 @@ To replicate Apple's responsive homepage layout using semantic HTML5 and modern 
 
 - ✅ HTML5
 - ✅ CSS3
-- 🧪 [Optional] JavaScript for interactivity (if used)
 
 ---
 
